@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Stephen-Mhuli/Stephen-Mhuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Stephen Mhuli. A software developer based in Dar es Salaam - Tanzania.
 
 - 🔭 I’m currently working on ...
+
+ Multiple projects using  JavaScript,PHP among others.
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+ React, React native
+
+<--- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...-->
+
 - 💬 Ask me about ...
+
+Anything you find relevant to the context
+<--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- -->
+
