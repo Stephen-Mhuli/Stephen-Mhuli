@@ -1,19 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+## I am Stephen Mhuli 👨🏽‍💻
 
-My name is Stephen Mhuli. A software developer based in Dar es Salaam - Tanzania.
-
-- 🔭 I’m currently working on ...
-
- Multiple projects using  JavaScript,PHP among others.
-
-- 🌱 I’m currently learning ...
-
- React, React native
-
-
-
-- 💬 Ask me about ...
-
-Anything you find relevant to the context
-
-
+- 🔭 I’m currently working on React Native, Node.
+- 🌱 I’m currently learning React native + Redux
+- 👯 I’m looking to collaborate on React,React native, Node, Laravel
+- 🤔 I’m looking for help with Redux, Node
+- 💬 Ask me about React, React native, Node, Laravel, PHP, JavaScript
+- 📫 How to reach me: stevemshible@gmail.com +255 742 726 716
+- 😄 Pronouns: Mr. Bro. 💪💪
+- ⚡ Fun fact: Explore the good stuffs. ✨✨
