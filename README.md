@@ -10,15 +10,10 @@ My name is Stephen Mhuli. A software developer based in Dar es Salaam - Tanzania
 
  React, React native
 
-<--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...-->
+
 
 - 💬 Ask me about ...
 
 Anything you find relevant to the context
-<--
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- -->
+
 
