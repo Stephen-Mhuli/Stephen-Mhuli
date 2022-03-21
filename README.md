@@ -8,4 +8,4 @@
 - 💬 Ask me about React, React native, Node, Laravel, PHP, JavaScript.✨
 - 📫 How to reach me: stevemshible@gmail.com +255 742 726 716
 - 😄 Pronouns: Mr. Bro. 💪
-- ⚡ Fun fact: Explore the good stuffs. 💪
+- ⚡ Fact: Explore the good stuffs. 💪
