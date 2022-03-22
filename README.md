@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi there 👋
 ## I am Stephen Mhuli 👨🏽‍💻
 
 - 🔭 I’m currently working on React Native.
