@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React Native.
 - 🌱 I’m currently learning Redux and NodeJS
 - 👯 I’m looking to collaborate on React, React native, NodeJS
-- 🤔 I’m looking for help with creating API using laravel.
+- 🤔 I’m looking for help with creating API using Node+Express.
 - 💬 Ask me about React, React native,Laravel, PHP, JavaScript.✨
 - 📫 How to reach me: stevemshible@gmail.com +255742726716
 - 😄 Pronouns: Mr. Bro. 💪
