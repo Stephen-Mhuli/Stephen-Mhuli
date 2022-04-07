@@ -1,11 +1,11 @@
 ## Hi there 👋
 ## I am Stephen Mhuli 👨🏽‍💻
 
-- 🔭 I’m currently working on React Native.
-- 🌱 I’m currently learning Redux.
-- 👯 I’m looking to collaborate on React, React native, Laravel.
-- 🤔 I’m looking for help with creating API using Larvel.
-- 💬 Ask me about React, React native,Laravel, JavaScript.✨
+- 🔭 I’m currently working on creating API for E-Commerce android application by using Laravel.
+- 🌱 I’m currently learning Redux and React Native.
+- 👯 I’m looking to collaborate on React, React native, Laravel, PHP and JavaScript.
+- 🤔 I’m looking for help with using Redux in React Native.
+- 💬 Ask me about React, React native,Laravel, JavaScript and PHP.✨
 - 📫 How to reach me: stevemshible@gmail.com +255742726716
 - 😄 Pronouns: Mr. Bro. 💪
 - ⚡ Fact: Take a break,write some code,do what you do best.💪
