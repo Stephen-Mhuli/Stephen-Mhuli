@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on creating API by using Laravel and developing a mobile app using React Native.
 - 🌱 I’m currently learning Redux and React Native.
-- 👯 I’m looking to collaborate on React, React native, Laravel, PHP and JavaScript.
+- 👯 I’m looking to collaborate on React, React native, Laravel, Nodejs, PHP and JavaScript.
 - 🤔 I’m looking for help with using Redux in React Native.
 - 💬 Ask me about React, React native,Laravel, JavaScript and PHP.✨
 - 📫 How to reach me: stevemshible@gmail.com +255742726716
