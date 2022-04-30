@@ -1,10 +1,10 @@
 # Hi there 👋
 ## I am Stephen Mhuli 👨🏽‍💻
 
-- 🔭 I’m currently working on creating API by using Laravel and developing a mobile app using React Native.
+- 🔭 I’m currently working on creating API by using Laravel and developing a hybrid mobile app(for both ios & android) using React Native.
 - 🌱 I’m currently learning Redux and React Native.
 - 👯 I’m looking to collaborate on React, React native, Laravel, Nodejs, PHP and JavaScript.
-- 🤔 I’m looking for help with using Redux in React Native.
+- 🤔 I’m looking for help with intergration of payment system in React Native mobile app.
 - 💬 Ask me about React, React native,Laravel, JavaScript and PHP.✨
 - 📫 How to reach me: stevemshible@gmail.com +255742726716
 - 😄 Pronouns: Mr. Bro. 💪
