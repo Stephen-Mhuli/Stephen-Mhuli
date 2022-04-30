@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I am Stephen Mhuli 👨🏽‍💻
 
-- 🔭 I’m currently working on creating API by using Laravel and developing a hybrid mobile app(for both ios & android) using React Native.
+- 🔭 I’m currently working on  developing a hybrid mobile app(for both ios & android) using React Native.
 - 🌱 I’m currently learning Redux and React Native.
 - 👯 I’m looking to collaborate on React, React native, Laravel, Nodejs, PHP and JavaScript.
 - 🤔 I’m looking for help with intergration of payment system in React Native mobile app.
