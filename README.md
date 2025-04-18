@@ -1,12 +1,12 @@
 # Hi there 👋
 ## I am Stephen Mhuli 👨🏽‍💻
 
-- 🔭 I’m currently working on  developing a mobile app(for both ios & android) using React Native.
-- 🌱 I’m currently learning Redux and React Native.
-- 👯 I’m looking to collaborate on React,React native, Laravel, Nodejs, PHP and JavaScript.
-- 🤔 I’m looking for help with intergration of payment system in React Native mobile app.
-- 💬 Ask me about React, React native,Laravel, JavaScript and PHP.✨
-- 📫 How to reach me: stephenmhuli99@gmail.com +255742726716
+- 🔭 I’m currently working on developing a web app using NextJS.
+- 🌱 I’m currently learning NextJS.
+- 👯 I’m looking to collaborate on React,React native, NextJS, Nodejs, and JavaScript Projects.
+- 🤔 I’m looking for help with intergration of payment system in NextJS app.
+- 💬 Ask me about React,React native,NextJS, JavaScript and NodeJS.✨
+- 📫 How to reach me: stephenmhuli99@gmail.com +255679630675
 - 😄 Pronouns: Mr. Bro. 💪
 - ⚡ Fact: Take a break,write some code,do what you do best.💪
 
